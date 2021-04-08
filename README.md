@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="1000" height="400" src="Zeenat-Lawal.png">
+  <img width="1100" height="400" src="Zeenat-Lawal.png">
 </p>
 ### About Me :woman:
 
