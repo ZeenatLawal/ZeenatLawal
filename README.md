@@ -1,5 +1,8 @@
 
-![About Me](Zeenat-Lawal.png)
+
+<p align="center">
+  <img width="500" height="300" src="Zeenat-Lawal.png">
+</p>
 ### About Me :woman:
 
 - 🔭 I’m currently training to become a full-stack software developer
