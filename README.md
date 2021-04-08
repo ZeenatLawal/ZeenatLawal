@@ -8,5 +8,5 @@
 
 - 🔭 I’m currently training to become a full-stack software developer
 - 🌱 I’m currently learning how to build great software at <a href="https://www.microverse.org/">Microverse Inc</a>
-- Language stack: JavaScript, Ruby, Rails, React & Redux
-- In my spare time, I like reading fictional novels.
+- :computer: Language stack: JavaScript, Ruby, Rails, React & Redux
+- :book: I'm a book lover (fictional novels)
