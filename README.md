@@ -18,4 +18,4 @@
 
 
 ## Stats
-[![Zeenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeenatLawal)](https://github.com/anuraghazra/github-readme-stats)
+[![Zeenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeenatLawal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
