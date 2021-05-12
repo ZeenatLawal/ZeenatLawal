@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/lawal_zeenat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-   <a href="https://www.linkedin.com/in/zeenat-lawal-665872120/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/lawal_zeenat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lawal_zeenat"></a>
+   <a href="https://www.linkedin.com/in/zeenatlawal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zeenatlawal"></a>
+  <a href="https://www.instagram.com/xee_law/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xee_law"  /></a>
 </p>
 
 ## About Me :woman:
