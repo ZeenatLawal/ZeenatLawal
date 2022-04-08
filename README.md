@@ -14,11 +14,11 @@
 
 ```javascript
 const Zeenat = {
-    lookingForPosition: 'Full Stack Software Developer' || 'Front End Software Developer',
+<!--     lookingForPosition: 'Full Stack Software Developer' || 'Front End Software Developer', -->
     stack: 'React, JavaScript, Ruby, Rails',
     degree: 'Computer Science',
-    status: 'Looking for new opportunities',
-    loves: 'Fictional books',
+    status: 'Front End Developer at Amy.app',
+    loves: 'Fictional books, Kdrama/Kpop',
   };
 ```
 
