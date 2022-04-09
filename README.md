@@ -14,10 +14,9 @@
 
 ```javascript
 const Zeenat = {
-<!--     lookingForPosition: 'Full Stack Software Developer' || 'Front End Software Developer', -->
-    stack: 'React, JavaScript, Ruby, Rails',
-    degree: 'Computer Science',
     status: 'Front End Developer at Amy.app',
+    stack: 'React, JavaScript',
+    degree: 'Computer Science',
     loves: 'Fictional books, Kdrama/Kpop',
   };
 ```
