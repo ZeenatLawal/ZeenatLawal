@@ -14,7 +14,6 @@
 
 ```javascript
 const Zeenat = {
-    status: 'Front End Developer at Amy.app',
     stack: 'React, JavaScript/TypeScript',
     degree: 'Computer Science',
     loves: 'Fictional books, Kdrama/Kpop',
