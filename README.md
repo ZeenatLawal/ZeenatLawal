@@ -25,7 +25,7 @@ const Zeenat = {
 [![Zeenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeenatLawal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZeenatLawal&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ZeenatLawal&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 <!-- ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeenatLawal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
